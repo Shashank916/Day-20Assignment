@@ -1,0 +1,11 @@
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\Phase-1\DAY-20\Assignment\MainApp\MainApp\obj\Debug\MainApp.pdb
